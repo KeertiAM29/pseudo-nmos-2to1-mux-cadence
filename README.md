@@ -48,7 +48,7 @@ The circuit consists of:
 
 ## Testbench Setup
 
-![Testbench](testbench/testbench.png)
+![Testbench](image.png)
 
 * Pulse voltage sources are applied to inputs A, B, and select line S
 * DC supply voltage of 1.8V is used
