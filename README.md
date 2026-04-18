@@ -36,7 +36,7 @@ The select signal controls the NMOS network to choose between inputs A and B. Th
 
 ## Design Implementation
 
-![MUX Schematic](schematics/mux_schematic.png)
+![MUX Schematic](image.png)
 
 The circuit consists of:
 
