@@ -48,7 +48,7 @@ The circuit consists of:
 
 ## Testbench Setup
 
-![Testbench](image.png)
+![Testbench](testbench.jpeg)
 
 * Pulse voltage sources are applied to inputs A, B, and select line S
 * DC supply voltage of 1.8V is used
@@ -58,7 +58,7 @@ The circuit consists of:
 
 ## Simulation Results
 
-![Waveform](results/waveform.png)
+![Waveform](waveform.jpeg)
 
 * Transient analysis verifies correct multiplexer operation
 * Output follows selected input based on select signal
